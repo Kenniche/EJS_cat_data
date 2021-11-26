@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container{
+    display: flex;
+    justify-content: space-evenly;
+}
+
+img{
+    width: 200px;
+    height: 200px;
+}
+
+h1{
+    color: slategray;
+}

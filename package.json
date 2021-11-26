@@ -1,0 +1,17 @@
+{
+  "name": "EJS_cat_data",
+  "version": "1.0.0",
+  "description": "Cat Data with EJS ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "Kenniche",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1"
+  }
+}
